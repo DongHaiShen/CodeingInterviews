@@ -19,7 +19,7 @@ public class DuplicationInArray
      * @param numbers     待查数组
      * @param length      数组长度
      * @param duplication 在duplication[0]中存放找到的重复元素
-     * @return boolean值，是否存在重复元素
+     * @return boolean值，是否存在重复元素，非法情况也返回false
      */
     public boolean duplicate(int numbers[], int length, int[] duplication)
     {
