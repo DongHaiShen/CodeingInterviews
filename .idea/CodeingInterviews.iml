@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src/03_01_DuplicationInArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/03_02_DuplicationInArrayNoEdit" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/04_FindInPartiallySortedMatrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05_ReplaceSpaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/06_PrintListInReversedOrder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/util" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
