@@ -35,6 +35,7 @@ public class FindInPartiallySortedMatrix
     {
         if (array == null)
         {
+            System.out.println("数组为空");
             return false;
         }
 

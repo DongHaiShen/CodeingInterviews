@@ -45,6 +45,7 @@ public class DuplicationInArrayNoEdit
         // 判断数组及其长度是否合法
         if (numbers == null || numbers.length <= 1)
         {
+            System.out.println("数组为空或长度不合法");
             return -1;
         }
 
@@ -53,6 +54,7 @@ public class DuplicationInArrayNoEdit
         {
             if (numbers[i] < 1 || numbers[i] > numbers.length - 1)
             {
+                System.out.println("数字未在合法范围内");
                 return -1;
             }
         }

@@ -16,6 +16,9 @@
 
 #### 代码
 ```java
+import java.util.ArrayList;
+import java.util.Stack;
+
 public class PrintListInReversedOrder
 {
     /**
@@ -65,6 +68,9 @@ public class PrintListInReversedOrder
 
 #### 代码
 ```java
+import java.util.ArrayList;
+import java.util.Stack;
+
 public class PrintListInReversedOrder
 {
     /**

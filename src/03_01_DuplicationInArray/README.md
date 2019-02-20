@@ -52,13 +52,14 @@ public class DuplicationInArray
      * @param numbers     待查数组
      * @param length      数组长度
      * @param duplication 在duplication[0]中存放找到的重复元素
-     * @return boolean值，是否存在重复元素
+     * @return boolean值，是否存在重复元素，非法情况也返回false
      */
     public boolean duplicate(int numbers[], int length, int[] duplication)
     {
         // 判断数组及其长度是否合法
         if (numbers == null || length <= 1)
         {
+            System.out.println("数组为空或长度不合法");
             return false;
         }
 
@@ -67,6 +68,7 @@ public class DuplicationInArray
         {
             if (numbers[i] < 0 || numbers[i] > length - 1)
             {
+                System.out.println("数字未在合法范围内");
                 return false;
             }
         }

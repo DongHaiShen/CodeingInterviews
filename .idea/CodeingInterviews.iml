@@ -10,6 +10,19 @@
       <sourceFolder url="file://$MODULE_DIR$/src/05_ReplaceSpaces" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/06_PrintListInReversedOrder" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/util" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/07_ConstructBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/08_NextNodeInBinaryTrees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/09_01_QueueWithTwoStacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/09_02_StackWithTwoQueues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/10_01_Fibonacci" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/10_02_JumpFloor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/10_03_JumpFloorII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/10_04_RectCover" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/11_MinNumberInRotatedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/12_StringPathInMatrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/13_RobotMove" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/14_CuttingRope" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/15_NumberOf1InBinary" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

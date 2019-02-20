@@ -5,9 +5,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/CodeingInterviews.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeingInterviews.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/03_01_DuplicationInArray/DuplicationInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/03_01_DuplicationInArray/DuplicationInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/03_01_DuplicationInArray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/03_01_DuplicationInArray/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayNoEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayNoEdit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05_ReplaceSpaces/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/05_ReplaceSpaces/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05_ReplaceSpaces/ReplaceSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/05_ReplaceSpaces/ReplaceSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06_PrintListInReversedOrder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/06_PrintListInReversedOrder/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,13 +23,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/03_01_DuplicationInArray/DuplicationInArray.java">
+        <entry file="file://$PROJECT_DIR$/src/09_02_StackWithTwoQueues/StackWithTwoQueues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/09_02_StackWithTwoQueues/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="306">
+                <caret line="73" column="3" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#290#291#0" expanded="true" />
+                  <element signature="e#324#325#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -42,10 +66,30 @@
     <findStrings>
       <find>duplicationInArray</find>
       <find>nxt</find>
+      <find>private</find>
+      <find>BinaryTreeNode</find>
+      <find>BinaryTreeNodeWithParent</find>
+      <find>getNext</find>
+      <find>结点</find>
+      <find>myStack</find>
+      <find>QueueWithTwoStacks</find>
+      <find>remove</find>
+      <find>remove(</find>
+      <find>add(</find>
+      <find>put</find>
+      <find>offer</find>
+      <find>queue2</find>
     </findStrings>
     <replaceStrings>
-      <replace>test</replace>
       <replace>next</replace>
+      <replace>public</replace>
+      <replace>TreeNode</replace>
+      <replace>TreeLinkNode</replace>
+      <replace>test.getNext</replace>
+      <replace>节点</replace>
+      <replace>QueueWithTwoStacks</replace>
+      <replace>test</replace>
+      <replace>queue2</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -54,26 +98,39 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/03_01_DuplicationInArray/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArray.java" />
         <option value="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayTest.java" />
         <option value="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayNoEditTest.java" />
-        <option value="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/README.md" />
         <option value="$PROJECT_DIR$/src/03_01_DuplicationInArray/DuplicationInArrayTest.java" />
         <option value="$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/FindInPartiallySortedMatrixTest.java" />
-        <option value="$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/README.md" />
         <option value="$PROJECT_DIR$/src/05_ReplaceSpaces/ReplaceSpacesTest.java" />
-        <option value="$PROJECT_DIR$/src/05_ReplaceSpaces/README.md" />
         <option value="$PROJECT_DIR$/src/06_PrintListInReversedOrder/PrintListInReversedOrderTest.java" />
-        <option value="$PROJECT_DIR$/src/06_PrintListInReversedOrder/README.md" />
-        <option value="$PROJECT_DIR$/src/06_PrintListInReversedOrder/PrintListInReversedOrder.java" />
-        <option value="$PROJECT_DIR$/src/03_01_DuplicationInArray/DuplicationInArray.java" />
-        <option value="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayNoEdit.java" />
-        <option value="$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" />
-        <option value="$PROJECT_DIR$/src/05_ReplaceSpaces/ReplaceSpaces.java" />
         <option value="$PROJECT_DIR$/src/util/ListNode.java" />
         <option value="$PROJECT_DIR$/src/util/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayNoEdit.java" />
+        <option value="$PROJECT_DIR$/src/03_01_DuplicationInArray/DuplicationInArray.java" />
+        <option value="$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" />
+        <option value="$PROJECT_DIR$/src/05_ReplaceSpaces/ReplaceSpaces.java" />
+        <option value="$PROJECT_DIR$/src/07_ConstructBinaryTree/ConstructBinaryTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/07_ConstructBinaryTree/ConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/03_01_DuplicationInArray/README.md" />
+        <option value="$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/README.md" />
+        <option value="$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/README.md" />
+        <option value="$PROJECT_DIR$/src/05_ReplaceSpaces/README.md" />
+        <option value="$PROJECT_DIR$/src/06_PrintListInReversedOrder/README.md" />
+        <option value="$PROJECT_DIR$/src/07_ConstructBinaryTree/README.md" />
+        <option value="$PROJECT_DIR$/src/util/TreeLinkNode.java" />
+        <option value="$PROJECT_DIR$/src/08_NextNodeInBinaryTrees/NextNodeInBinaryTreesTest.java" />
+        <option value="$PROJECT_DIR$/src/08_NextNodeInBinaryTrees/NextNodeInBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/src/08_NextNodeInBinaryTrees/README.md" />
+        <option value="$PROJECT_DIR$/src/06_PrintListInReversedOrder/PrintListInReversedOrder.java" />
+        <option value="$PROJECT_DIR$/src/09_01_QueueWithTwoStacks/QueueWithTwoStacksTest.java" />
+        <option value="$PROJECT_DIR$/src/09_01_QueueWithTwoStacks/README.md" />
+        <option value="$PROJECT_DIR$/src/09_01_QueueWithTwoStacks/QueueWithTwoStacks.java" />
+        <option value="$PROJECT_DIR$/src/09_02_StackWithTwoQueues/StackWithTwoQueuesTest.java" />
+        <option value="$PROJECT_DIR$/src/09_02_StackWithTwoQueues/StackWithTwoQueues.java" />
+        <option value="$PROJECT_DIR$/src/09_02_StackWithTwoQueues/README.md" />
       </list>
     </option>
   </component>
@@ -104,13 +161,13 @@
               <item name="CodeingInterviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeingInterviews" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="03_01_DuplicationInArray" type="462c0819:PsiDirectoryNode" />
+              <item name="09_01_QueueWithTwoStacks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeingInterviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeingInterviews" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="06_PrintListInReversedOrder" type="462c0819:PsiDirectoryNode" />
+              <item name="09_02_StackWithTwoQueues" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeingInterviews" type="b2602c69:ProjectViewProjectNode" />
@@ -128,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550585966698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550675286566" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Softwares/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -149,30 +206,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintListInReversedOrderTest">
-    <configuration name="DuplicationInArrayNoEditTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicationInArrayNoEditTest" />
+  <component name="RunManager" selected="Application.StackWithTwoQueuesTest">
+    <configuration name="ConstructBinaryTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstructBinaryTreeTest" />
       <module name="CodeingInterviews" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicationInArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicationInArrayTest" />
+    <configuration name="NextNodeInBinaryTreesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NextNodeInBinaryTreesTest" />
       <module name="CodeingInterviews" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindInPartiallySortedMatrixTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindInPartiallySortedMatrixTest" />
-      <module name="CodeingInterviews" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintListInReversedOrderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintListInReversedOrderTest" />
+    <configuration name="QueueWithTwoStacksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueWithTwoStacksTest" />
       <module name="CodeingInterviews" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,13 +235,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackWithTwoQueuesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackWithTwoQueuesTest" />
+      <module name="CodeingInterviews" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintListInReversedOrderTest" />
+        <item itemvalue="Application.StackWithTwoQueuesTest" />
+        <item itemvalue="Application.QueueWithTwoStacksTest" />
+        <item itemvalue="Application.NextNodeInBinaryTreesTest" />
+        <item itemvalue="Application.ConstructBinaryTreeTest" />
         <item itemvalue="Application.ReplaceSpacesTest" />
-        <item itemvalue="Application.FindInPartiallySortedMatrixTest" />
-        <item itemvalue="Application.DuplicationInArrayTest" />
-        <item itemvalue="Application.DuplicationInArrayNoEditTest" />
       </list>
     </recent_temporary>
   </component>
@@ -207,18 +264,19 @@
       <updated>1550414843672</updated>
       <workItem from="1550414845543" duration="1984000" />
       <workItem from="1550470576612" duration="17974000" />
-      <workItem from="1550566663013" duration="11318000" />
+      <workItem from="1550566663013" duration="11840000" />
+      <workItem from="1550647685628" duration="18373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31276000" />
+    <option name="totallyTimeSpent" value="50171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2386059" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2419571" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,7 +285,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24362606" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.296034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -235,7 +293,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34560907" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34419262" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -270,38 +328,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayNoEditTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/FindInPartiallySortedMatrixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="254" selection-start-line="254" selection-end-line="254" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/05_ReplaceSpaces/ReplaceSpacesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/03_01_DuplicationInArray/DuplicationInArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -319,11 +349,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/03_01_DuplicationInArray/DuplicationInArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayNoEditTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/FindInPartiallySortedMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/05_ReplaceSpaces/ReplaceSpacesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/06_PrintListInReversedOrder/PrintListInReversedOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayNoEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="19" column="35" lean-forward="true" selection-end-line="98" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/05_ReplaceSpaces/ReplaceSpaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="24" lean-forward="true" selection-end-line="60" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/07_ConstructBinaryTree/ConstructBinaryTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="77" column="16" lean-forward="true" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/03_01_DuplicationInArray/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="42">
-            <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="11" />
+          <first_editor relative-caret-position="336">
+            <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -332,8 +431,8 @@
     <entry file="file://$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="20" />
+          <first_editor relative-caret-position="375">
+            <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -342,55 +441,77 @@
     <entry file="file://$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="42">
-            <caret line="2" column="11" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="11" />
+          <first_editor relative-caret-position="-611">
+            <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/06_PrintListInReversedOrder/PrintListInReversedOrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/05_ReplaceSpaces/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <first_editor relative-caret-position="-613">
+            <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/03_02_DuplicationInArrayNoEdit/DuplicationInArrayNoEdit.java">
+    <entry file="file://$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/04_FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/util/TreeLinkNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="189">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/08_NextNodeInBinaryTrees/NextNodeInBinaryTreesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="63" column="31" lean-forward="true" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/07_ConstructBinaryTree/ConstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/06_PrintListInReversedOrder/README.md">
+    <entry file="file://$PROJECT_DIR$/src/07_ConstructBinaryTree/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <first_editor relative-caret-position="147">
+            <caret line="7" column="29" selection-end-line="110" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
@@ -398,38 +519,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/06_PrintListInReversedOrder/PrintListInReversedOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        <state relative-caret-position="630">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/05_ReplaceSpaces/ReplaceSpaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -440,6 +533,125 @@
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/08_NextNodeInBinaryTrees/NextNodeInBinaryTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/08_NextNodeInBinaryTrees/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="157">
+            <caret line="59" column="34" lean-forward="true" selection-end-line="73" selection-end-column="68" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/06_PrintListInReversedOrder/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="145">
+            <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <folding>
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/09_01_QueueWithTwoStacks/QueueWithTwoStacksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="3" lean-forward="true" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="161" column="14" selection-start-line="161" selection-start-column="14" selection-end-line="161" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="336" column="19" selection-start-line="336" selection-start-column="19" selection-end-line="336" selection-end-column="19" />
+          <folding>
+            <element signature="e#20484#20485#0" expanded="true" />
+            <element signature="e#20520#20521#0" expanded="true" />
+            <element signature="e#20770#20771#0" expanded="true" />
+            <element signature="e#20799#20800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/09_01_QueueWithTwoStacks/QueueWithTwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/09_01_QueueWithTwoStacks/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="178">
+            <caret line="64" column="3" lean-forward="true" selection-end-line="71" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/09_02_StackWithTwoQueues/StackWithTwoQueuesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/09_02_StackWithTwoQueues/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="73" column="3" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+            <folding>
+              <element signature="imports" expanded="true" />
+              <element signature="e#290#291#0" expanded="true" />
+              <element signature="e#324#325#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/09_02_StackWithTwoQueues/StackWithTwoQueues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
           </folding>
         </state>
       </provider>

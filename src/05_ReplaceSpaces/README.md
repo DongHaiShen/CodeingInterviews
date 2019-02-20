@@ -44,6 +44,7 @@ public class ReplaceSpaces
         // 增加健壮性
         if (str == null)
         {
+            System.out.println("字符串为空");
             return null;
         }
 
