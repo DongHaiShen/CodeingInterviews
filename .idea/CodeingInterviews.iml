@@ -23,6 +23,17 @@
       <sourceFolder url="file://$MODULE_DIR$/src/13_RobotMove" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/14_CuttingRope" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/15_NumberOf1InBinary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/16_Power" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/17_Print1ToMaxOfNDigits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/18_01_DeleteNodeInList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/18_02_DeleteDuplicatedNode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/19_RegularExpressionsMatching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/20_NumericStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/21_ReorderArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/22_KthNodeFromEnd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/23_EntryNodeInListLoop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/24_ReverseList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/25_MergeSortedLists" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

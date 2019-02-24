@@ -72,5 +72,14 @@ public class StringPathInMatrixTest
         //AAAA
         System.out.println(test.hasPath("AAAAAAAAAAAA".toCharArray(), 3, 4,
                 "AAAAAAAAAAAAA".toCharArray()) + "[false]");// false
+
+        // 本例针对StringPathInMatrix代码中89~93行
+        // ABCEHJIG  //SGGFIECVAASABCEHJIGQEM
+        // SFCSLOPQ
+        // ADEEMNOE
+        // ADIDEJFM
+        // VCEIFGGS
+        System.out.println(test.hasPath("ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS".toCharArray(), 5, 8,
+                "SGGFIECVAASABCEHJIGQEM".toCharArray()) + "[true]");
     }
 }
