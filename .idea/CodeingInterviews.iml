@@ -34,6 +34,18 @@
       <sourceFolder url="file://$MODULE_DIR$/src/23_EntryNodeInListLoop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/24_ReverseList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/25_MergeSortedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/26_SubstructureInTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/27_MirrorOfBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/28_SymmetricalBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/29_PrintMatrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/30_MinInStack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/31_StackPushPopOrder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/32_01_PrintTreeFromTopToBottom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/32_02_PrintTreesInLines" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/32_03_PrintTreesInZigzag" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/33_SquenceOfBST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/34_PathInTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/35_CopyComplexList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
