@@ -46,6 +46,16 @@
       <sourceFolder url="file://$MODULE_DIR$/src/33_SquenceOfBST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/34_PathInTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/35_CopyComplexList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/36_ConvertBinarySearchTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/37_SerializeBinaryTrees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/38_StringPermutation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/39_MoreThanHalfNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/40_KLeastNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/41_StreamMedian" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/42_GreatestSumOfSubarrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/43_NumberOf1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/44_DigitsInSequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/45_SortArrayForMinNumber" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
