@@ -11,7 +11,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/37_SerializeBinaryTrees/SerializeBinaryTrees.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9">
+              <caret line="81" column="7" lean-forward="true" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/37_SerializeBinaryTrees/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2289">
+                <caret line="109" column="3" selection-start-line="109" selection-start-column="3" selection-end-line="109" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/37_SerializeBinaryTrees/SerializeBinaryTreesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,7 +56,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hasPath</find>
       <find>movingCount</find>
       <find>numberOfOne</find>
       <find>NumberOf1</find>
@@ -36,25 +69,25 @@
       <find>meetingNode</find>
       <find>hasSubtree</find>
       <find>mirror</find>
-      <find>private</find>
       <find>printMatrixClockWisely</find>
       <find>test.</find>
       <find>stack</find>
       <find>min()</find>
       <find>isPopOrder</find>
-      <find>BinaryTreeNode</find>
       <find>printFromToBottom</find>
       <find>printFromTopToBottom</find>
       <find>verifySequenceOfBST</find>
-      <find>value</find>
       <find>test.findPath</find>
       <find>findPath</find>
       <find>sibling</find>
       <find>ComplexListNode</find>
       <find>clone</find>
+      <find>value</find>
+      <find>convert</find>
+      <find>private</find>
+      <find>BinaryTreeNode</find>
     </findStrings>
     <replaceStrings>
-      <replace>test.NumberOf1</replace>
       <replace>NumberOfOne</replace>
       <replace>numberOfOne</replace>
       <replace>numberOfOneWithFormula</replace>
@@ -67,23 +100,24 @@
       <replace>test.entryNodeOfLoop</replace>
       <replace>test.hasSubtree</replace>
       <replace>test.mirror</replace>
-      <replace>public</replace>
       <replace>test.printMatrixClockWisely</replace>
       <replace>printMatrix</replace>
       <replace>print(test.</replace>
       <replace>test</replace>
       <replace>top()</replace>
       <replace>test.isPopOrder</replace>
-      <replace>TreeNode</replace>
       <replace>test.printFromToBottom</replace>
       <replace>printTreesInLines</replace>
       <replace>test.verifySequenceOfBST</replace>
-      <replace>val</replace>
       <replace>test.findPath</replace>
       <replace>print(test.findPath</replace>
       <replace>next</replace>
       <replace>RandomListNode</replace>
       <replace>test.clone</replace>
+      <replace>val</replace>
+      <replace>test.convert</replace>
+      <replace>public</replace>
+      <replace>TreeNode</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -96,12 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/22_KthNodeFromEnd/KthNodeFromEnd.java" />
-        <option value="$PROJECT_DIR$/src/23_EntryNodeInListLoop/EntryNodeInListLoop.java" />
-        <option value="$PROJECT_DIR$/src/23_EntryNodeInListLoop/EntryNodeInListLoopTest.java" />
-        <option value="$PROJECT_DIR$/src/23_EntryNodeInListLoop/README.md" />
-        <option value="$PROJECT_DIR$/src/24_ReverseList/ReverseListTest.java" />
-        <option value="$PROJECT_DIR$/src/24_ReverseList/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/24_ReverseList/README.md" />
         <option value="$PROJECT_DIR$/src/25_MergeSortedLists/MergeSortedListsTest.java" />
         <option value="$PROJECT_DIR$/src/25_MergeSortedLists/README.md" />
@@ -147,6 +175,12 @@
         <option value="$PROJECT_DIR$/src/35_CopyComplexList/CopyComplexListTest.java" />
         <option value="$PROJECT_DIR$/src/35_CopyComplexList/CopyComplexList.java" />
         <option value="$PROJECT_DIR$/src/35_CopyComplexList/README.md" />
+        <option value="$PROJECT_DIR$/src/36_ConvertBinarySearchTree/ConvertBinarySearchTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/36_ConvertBinarySearchTree/ConvertBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/36_ConvertBinarySearchTree/README.md" />
+        <option value="$PROJECT_DIR$/src/37_SerializeBinaryTrees/SerializeBinaryTreesTest.java" />
+        <option value="$PROJECT_DIR$/src/37_SerializeBinaryTrees/SerializeBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/src/37_SerializeBinaryTrees/README.md" />
       </list>
     </option>
   </component>
@@ -163,6 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -180,19 +215,24 @@
               <item name="CodeingInterviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeingInterviews" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="36_ConvertBinarySearchTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeingInterviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeingInterviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="37_SerializeBinaryTrees" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551445111708" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551607491988" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Softwares/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -213,7 +253,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CopyComplexListTest">
+  <component name="RunManager" selected="Application.SerializeBinaryTreesTest">
+    <configuration name="ConvertBinarySearchTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertBinarySearchTreeTest" />
+      <module name="CodeingInterviews" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CopyComplexListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CopyComplexListTest" />
       <module name="CodeingInterviews" />
@@ -228,15 +275,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTreesInLinesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintTreesInLinesTest" />
-      <module name="CodeingInterviews" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintTreesInZigzagTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintTreesInZigzagTest" />
+    <configuration name="SerializeBinaryTreesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SerializeBinaryTreesTest" />
       <module name="CodeingInterviews" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -251,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializeBinaryTreesTest" />
+        <item itemvalue="Application.ConvertBinarySearchTreeTest" />
         <item itemvalue="Application.CopyComplexListTest" />
         <item itemvalue="Application.PathInTreeTest" />
         <item itemvalue="Application.SquenceOfBSTTest" />
-        <item itemvalue="Application.PrintTreesInZigzagTest" />
-        <item itemvalue="Application.PrintTreesInLinesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -283,17 +323,21 @@
       <workItem from="1551058511049" duration="18356000" />
       <workItem from="1551149195858" duration="19034000" />
       <workItem from="1551234938131" duration="29904000" />
-      <workItem from="1551405555892" duration="19633000" />
+      <workItem from="1551405555892" duration="20562000" />
+      <workItem from="1551591587011" duration="2118000" />
+      <workItem from="1551598408972" duration="3669000" />
+      <workItem from="1551606583218" duration="1069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174119000" />
+    <option name="totallyTimeSpent" value="181904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21179625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -302,7 +346,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24220963" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23229462" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,7 +354,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49865952" visible="true" weight="0.3371105" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49865952" weight="0.33663365" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.23654391" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.17847025" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -359,52 +403,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/util/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/26_SubstructureInTree/SubstructureInTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/26_SubstructureInTree/README/md.java" />
-    <entry file="file://$PROJECT_DIR$/src/27_MirrorOfBinaryTree/MirrorOfBinaryTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/27_MirrorOfBinaryTree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="5" column="3" lean-forward="true" selection-end-line="57" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/28_SymmetricalBinaryTree/SymmetricalBinaryTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/29_PrintMatrix/PrintMatrixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="92" column="37" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/09_01_QueueWithTwoStacks/QueueWithTwoStacks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-319">
@@ -763,13 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/35_CopyComplexList/CopyComplexList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/34_PathInTree/PathInTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-672">
@@ -777,13 +768,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/TreeLinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/35_CopyComplexList/CopyComplexList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/35_CopyComplexList/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="294">
-            <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <first_editor relative-caret-position="63">
+            <caret line="3" lean-forward="true" selection-end-line="98" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/36_ConvertBinarySearchTree/ConvertBinarySearchTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3843">
+          <caret line="183" column="11" selection-start-line="183" selection-start-column="11" selection-end-line="183" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/36_ConvertBinarySearchTree/ConvertBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/36_ConvertBinarySearchTree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="54" column="33" lean-forward="true" selection-end-line="80" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/37_SerializeBinaryTrees/SerializeBinaryTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="81" column="7" lean-forward="true" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/37_SerializeBinaryTrees/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2289">
+            <caret line="109" column="3" selection-start-line="109" selection-start-column="3" selection-end-line="109" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/37_SerializeBinaryTrees/SerializeBinaryTreesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
         </state>
       </provider>
     </entry>
