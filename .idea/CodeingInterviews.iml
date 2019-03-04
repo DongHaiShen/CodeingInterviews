@@ -56,6 +56,17 @@
       <sourceFolder url="file://$MODULE_DIR$/src/43_NumberOf1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/44_DigitsInSequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/45_SortArrayForMinNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/46_TranslateNumbersToStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/47_MaxValueOfGifts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/48_LongestSubstringWithoutDup" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/49_UglyNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/50_01_FirstNotRepeatingChar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/50_02_FristCharacterInStream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/51_InversePairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/52_FirstCommonNodesInLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/53_01_NumberOfK" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/53_02_MissingNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/53_03_IntegerIdenticalToIndex" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
