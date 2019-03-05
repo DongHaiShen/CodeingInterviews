@@ -29,6 +29,7 @@
 
 #### 代码
 ```java
+import java.util.ArrayList;
 import java.util.Stack;
 
 public class PrintTreesInZigzag
@@ -38,25 +39,29 @@ public class PrintTreesInZigzag
      *
      * @param root 二叉树根节点
      */
-    public void printTreesInZigzag(TreeNode root)
+    public ArrayList<ArrayList<Integer>> printTreesInZigzag(TreeNode pRoot)
     {
-        if (root == null)
+        ArrayList<ArrayList<Integer>> result = new ArrayList<>();
+
+        if (pRoot == null)
         {
-            return;
+            return result;
         }
 
-        TreeNode cur = new TreeNode();
+        TreeNode cur = new TreeNode(-1);
         Stack<TreeNode> stack1 = new Stack<>();
         Stack<TreeNode> stack2 = new Stack<>();
 
-        stack1.push(root);
+        stack1.push(pRoot);
         while (!stack1.isEmpty() || !stack2.isEmpty())
         {
             if (!stack1.isEmpty())
             {
+                ArrayList<Integer> list = new ArrayList<>();
                 while (!stack1.isEmpty())
                 {
                     cur = stack1.pop();
+                    list.add(cur.val);
                     System.out.print(cur.val + " ");
 
                     // 奇数层先左子节点后右子节点
@@ -69,12 +74,15 @@ public class PrintTreesInZigzag
                         stack2.push(cur.right);
                     }
                 }
+                result.add(list);
             }
             else
             {
+                ArrayList<Integer> list = new ArrayList<>();
                 while (!stack2.isEmpty())
                 {
                     cur = stack2.pop();
+                    list.add(cur.val);
                     System.out.print(cur.val + " ");
 
                     // 偶数层先右子节点后左子节点
@@ -87,9 +95,11 @@ public class PrintTreesInZigzag
                         stack1.push(cur.left);
                     }
                 }
+                result.add(list);
             }
             System.out.println();
         }
+        return result;
     }
 }
 ```

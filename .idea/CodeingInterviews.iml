@@ -61,12 +61,23 @@
       <sourceFolder url="file://$MODULE_DIR$/src/48_LongestSubstringWithoutDup" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/49_UglyNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/50_01_FirstNotRepeatingChar" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/50_02_FristCharacterInStream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/50_02_FirstCharacterInStream" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/51_InversePairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/52_FirstCommonNodesInLists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/53_01_NumberOfK" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/53_02_MissingNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/53_03_IntegerIdenticalToIndex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/54_KthNodeInBST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/55_01_TreeDepth" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/55_02_BalancedBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/56_01_NumbersAppearOnce" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/56_02_NumberAppearingOnce" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/57_01_TwoNumbersWithSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/57_02_ContinuousSquenceWithSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/58_01_ReverseWordsInSentence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/58_02_LeftRotateString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/59_01_MaxInSlidingWindow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/61_ContinousCards" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

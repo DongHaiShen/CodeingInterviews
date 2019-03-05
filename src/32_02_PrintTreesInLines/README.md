@@ -13,6 +13,7 @@ for (int i = queue.size(); i > 0; i--)
 
 #### 代码
 ```java
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -23,19 +24,21 @@ public class PrintTreesInLines
      *
      * @param root 二叉树根节点
      */
-    public void printTreesInLines(TreeNode root)
+    public ArrayList<ArrayList<Integer>> printTreesInLines(TreeNode pRoot)
     {
-        if (root == null)
+        ArrayList<ArrayList<Integer>> result = new ArrayList<>();
+        if (pRoot == null)
         {
-            return;
+            return result;
         }
 
-        TreeNode cur = new TreeNode();
+        TreeNode cur = new TreeNode(-1);
         Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
+        queue.offer(pRoot);
 
         while (!queue.isEmpty())
         {
+            ArrayList<Integer> list = new ArrayList<>();
             for (int i = queue.size(); i > 0; i--)
             {
                 cur = queue.poll();
@@ -49,9 +52,12 @@ public class PrintTreesInLines
                 {
                     queue.offer(cur.right);
                 }
+                list.add(cur.val);
             }
+            result.add(list);
             System.out.println();
         }
+        return result;
     }
 }
 ```
