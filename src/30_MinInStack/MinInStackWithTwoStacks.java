@@ -52,7 +52,6 @@ public class MinInStackWithTwoStacks
         {
             throw new RuntimeException("Stack is empty!");
         }
-
     }
 
     /**

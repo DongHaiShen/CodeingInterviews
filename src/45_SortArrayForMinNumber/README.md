@@ -11,6 +11,8 @@
 
 #### 代码
 ```java
+import java.util.Arrays;
+
 public class SortArrayForMinNumber
 {
     /**

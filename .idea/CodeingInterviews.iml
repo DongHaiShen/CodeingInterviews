@@ -78,6 +78,15 @@
       <sourceFolder url="file://$MODULE_DIR$/src/58_02_LeftRotateString" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/59_01_MaxInSlidingWindow" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/61_ContinousCards" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/59_02_QueueWithMax" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/60_DicesProbability" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/62_LastNumberInCircle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/63_MaximalProfit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/64_Accumulate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/65_AddTwoNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/66_ConstructArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/67_StringToInt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/68_CommonParentInTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
